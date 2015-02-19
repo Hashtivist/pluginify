@@ -5,9 +5,10 @@ Pluginify is a bash script by Harold Cohen that allows template based js plugin 
 I advise you use an alias to run the script. To do so :
 
 1. Open new console (Ctrl + Alt + T)
-2. Login as root (sudo -i)
+2. Login as root :
+  >  sudo -i
 3. Change directory :
-  > cd /home/etc/
+  > cd /etc/
 4. Open bash in gedit
   > gedit bash.bashrc
 5. Append a new line @ the end of the file
