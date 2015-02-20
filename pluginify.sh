@@ -25,7 +25,6 @@ function getDate() {
 }
 
 #getLicense sets the license type if requested
-#there are only a few here but you can add whatever license you want
 #learn more about licenses on
 #http://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses
 
